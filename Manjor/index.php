@@ -1,8 +1,8 @@
 <?php include("cabecalho.php") ?>
 <?php include 'barranavegacao.php'; ?>
 
-
 <style>
+	/*Estilos*/
 	.nav a {
 		color: black;
 		border-bottom: 0.3pc solid;
