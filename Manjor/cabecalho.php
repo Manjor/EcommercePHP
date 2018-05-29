@@ -15,7 +15,7 @@
     <script src="js/jquery-3.3.1.js"></script>
 
 		<style>
-				body {background-image: url(img/fundo.png);}
+			
 		</style>
 
 </head>

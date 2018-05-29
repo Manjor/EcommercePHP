@@ -13,6 +13,25 @@
 
 <!--DIVISÃO PRINCIPAL-->
 <div class="container-fluid">
+
+
+	<div class="row bg-dark py-3 text-white">
+		<div class="col-md-12 pt-3 text-center">
+			<h1>Manjor Hardware</h1>
+			<p>Os Melhores Produtos você encontra aqui</p>
+			<p>Ganhe R$ 20,00 de Desconto, basta assinar nossa Newslatter inserindo seu email abaixo</p>
+		</div>
+		<div class="col-12 mx-auto">
+			<form class="form form-inline center" action="news">
+				<div class="form-group mx-auto">
+					<input class="form-control" type="search" placeholder="Seu Email">
+					<button class="btn btn-outline-light mx-auto">Assinar</button>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+
 	<div class="row">
 		<div class="col-md-10 offset-md-1 bg-light rounded mt-2 py-2">
 			<ul class="nav justify-content-center">
@@ -32,119 +51,6 @@
 					<a href="#" class="nav-link">Placas de Video</a>
 				</li>
 			</ul>
-		</div>
-		<div class="col-md-10 offset-md-1 bg-light rounded mt-2 py-1">
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-md-2 col-1 rounded" style="color: black">
-						<p>Publicidade</p>
-						<img src="img/anunciomanoel.png" class="img-fluid my-1" width="100%" height="100%">
-					</div>
-					<div class="col-md-10" style="color: gray">
-						<h3><img src="img/lista.png" width="50" height="50">Lista de Produtos</h3>
-						<div class="container-fluid">
-							<div class="row">
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-								<div class="card col-lg-3 col-md-4 col-sm-6" style="width: 15rem">
-									<img src="img/placa.png" width="280" height="280" class="img-fluid">
-									<div class="card-body">
-										<h5 class="card-title">Placa Mãe MSI</h5>
-										<p>
-											Socket AM4+ p/ Processadores AMD linha Ryzen
-										</p>
-										<p class="text-success">R$ 750,00 <button class="btn btn-outline-primary float-right">Comprar</button></p>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-					<div class="col-md-8 mx-auto my-1" style="color: gray">
-						<p>Publicidade</p>
-						<img src="img/anuncio.png" width="100%">
-					</div>
-			</div>
-
 		</div>
 	</div>
 </div>
